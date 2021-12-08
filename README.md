@@ -2,7 +2,7 @@
 # Welcome to My GitHub !
 
 
-🔨 Skills 🔨
+🔨 Skills 🔨 <br/>
 Html5, css3, JavaScript, React, Next.js, Redux, Node.js
 
 🌱 I’m currently learning 🌱
