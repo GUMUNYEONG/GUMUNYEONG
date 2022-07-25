@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gu%20Munyeong&fontSize=90)
 # Welcome to My GitHub !
 
+
+
 ## WHO ?
-- 안녕하세요 프론트엔드 주니어 개발자 구문영입니다. 제 깃헙을 방문해주셔서 감사합니다!
+-- 안녕하세요 프론트엔드 주니어 개발자 구문영입니다. 제 깃헙을 방문해주셔서 감사합니다!
 
 ## WHEN ? 
 - 2021년 초부터 지금까지
