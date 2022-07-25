@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gu%20Munyeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to MunYeong's GitHub !&fontSize=90)
 
-<br/>
-# Welcome to My GitHub ! 
 
 <br/><br/><br/>
 ### WHO ?
@@ -41,4 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Gu%20Munyeong
 -->
