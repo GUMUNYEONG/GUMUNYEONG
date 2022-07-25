@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MunYeong's%20GitHub%20!&fontSize=90)
 
 # Welcome Welcome~!
-<br/><br/><br/>
+<br/><br/>
 ### WHO ?
  안녕하세요 프론트엔드 주니어 개발자 구문영입니다. 제 깃헙을 방문해주셔서 감사합니다!
 <br/>
