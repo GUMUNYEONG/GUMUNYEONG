@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gu%20Munyeong&fontSize=90)
 
-[ Welcome to My GitHub ! ]
+### Welcome to My GitHub ! 
 
 
 
