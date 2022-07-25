@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gu%20Munyeong&fontSize=90)
 
+<br/>
 # Welcome to My GitHub ! 
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 ### WHO ?
  안녕하세요 프론트엔드 주니어 개발자 구문영입니다. 제 깃헙을 방문해주셔서 감사합니다!
 
 ### WHEN ? 
- 2021년 초부터 지금까지
+ 이곳은 2021년 초부터 지금까지
 
 ### WHERE?
  어디서든 !😎
@@ -19,10 +20,10 @@
  제가 하고싶고 잘 할수 있는 것으로 만들었습니다. 사용한 개발툴은 html/css,React,Node.js 등입니다.
 
 ### WHY?
- 내가 원하는대로 디자인하고, 기능이 동작하도록 하고, 웹사이트를 만들어가는 게 신기하고 재밌었기 때문입니다!
+ 내가 원하는대로 디자인하고, 기능이 동작하도록 하고, 웹사이트를 만들어가는 게 신기하고 재밌었기 때문입니다! 
 
-
-
+ 
+ 
 
 <br/><br/>
 <!--
